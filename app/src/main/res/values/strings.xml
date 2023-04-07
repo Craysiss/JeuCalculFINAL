@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">JeuCalculFINAL</string>
+    <string name="text_menu_principal">Menu Principal</string>
+    <string name="text_bouton_jouer">Jouer</string>
+    <string name="text_bouton_meilleur_score">Meilleurs Scores</string>
+    <string name="bouton_valider_text">Valider</string>
+    <string name="ERROR_TOO_LONG"> Le terme ne peut pas depasser 4 caractères</string>
+    <string name="button_supprimer_text">Supprimer</string>
+    <string name="text_bouton_menu">Menu Principal</string>
+    <string name="text_bouton_rejouer">Rejouer</string>
+    <string name="text_meilleurs_scores">Meilleurs Scores</string>
+
+    <string name="button_1_text" translatable="false">1</string>
+    <string name="button_2_text" translatable="false">2</string>
+    <string name="button_3_text" translatable="false">3</string>
+    <string name="button_4_text" translatable="false">4</string>
+    <string name="button_5_text" translatable="false">5</string>
+    <string name="button_6_text" translatable="false">6</string>
+    <string name="button_7_text" translatable="false">7</string>
+    <string name="button_8_text" translatable="false">8</string>
+    <string name="button_9_text" translatable="false">9</string>
+    <string name="button_0_text" translatable="false">0</string>
+</resources>

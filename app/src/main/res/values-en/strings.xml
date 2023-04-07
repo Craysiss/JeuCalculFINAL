@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JeuCalculFINAL</string>
+    <string name="text_menu_principal">Main Menu</string>
+    <string name="text_bouton_jouer">Play</string>
+    <string name="text_bouton_meilleur_score">Highscores</string>
+    <string name="bouton_valider_text">Go !</string>
+    <string name="ERROR_TOO_LONG"> The term cannot exceed 4 characters</string>
+    <string name="button_supprimer_text">Delete</string>
+    <string name="text_bouton_menu">Main Menu</string>
+    <string name="text_bouton_rejouer">Replay</string>
+    <string name="text_meilleurs_scores">Best Scores</string>
+</resources>
